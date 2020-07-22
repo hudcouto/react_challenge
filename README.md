@@ -16,4 +16,5 @@
 
 - Não será necessário criar um backend para o mesmo, apenas uma aplicação frontend
 - Usar feature-branch
+- não precisa se preocupar com muita estilização CSS e afins, apenas não deixe um html sem nada :D
 - Tentar escrever um mínimo de testes
