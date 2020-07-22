@@ -10,7 +10,7 @@
 - Listagem de tarefas
 - Criação de tarefas
 - Uma tarefa precisa ter apenas um título
-- Na tela de listagem de tarefas ser possível adicionar uma nova
+- Na tela de listagem de tarefas ser possível adicionar uma nova tarefa
 
 #### Observações
 
